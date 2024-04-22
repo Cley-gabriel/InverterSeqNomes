@@ -7,12 +7,12 @@
 
 # Exemplos
 - Exemplos de entrada:
-  Pedro
-  Thiago
-  Lail
+  Pedro,
+  Thiago,
+  Lail,
   João
 - Exemplos de saída:
-  João
-  Lail
-  Thiago
+  João,
+  Lail,
+  Thiago,
   Pedro
