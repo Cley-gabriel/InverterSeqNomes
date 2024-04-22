@@ -10,9 +10,9 @@
   Pedro,
   Thiago,
   Lail,
-  João
+  João.
 - Exemplos de saída:
   João,
   Lail,
   Thiago,
-  Pedro
+  Pedro.
