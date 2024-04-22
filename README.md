@@ -6,12 +6,12 @@
 - Inversão da ordem dos nomes.
 
 # Exemplos
-- Exemplos de entrada:
+- Exemplo de entrada:
   Pedro,
   Thiago,
   Lail,
   João.
-- Exemplos de saída:
+- Exemplo de saída:
   João,
   Lail,
   Thiago,
